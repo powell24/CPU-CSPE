@@ -1,0 +1,8 @@
+C:\CSPE\p04Age_Payofilin\bin\Debug\p04Age_Payofilin.exe.config
+C:\CSPE\p04Age_Payofilin\bin\Debug\p04Age_Payofilin.exe
+C:\CSPE\p04Age_Payofilin\bin\Debug\p04Age_Payofilin.pdb
+C:\CSPE\p04Age_Payofilin\obj\Debug\p04Age_Payofilin.csproj.AssemblyReference.cache
+C:\CSPE\p04Age_Payofilin\obj\Debug\p04Age_Payofilin.csproj.SuggestedBindingRedirects.cache
+C:\CSPE\p04Age_Payofilin\obj\Debug\p04Age_Payofilin.csproj.CoreCompileInputs.cache
+C:\CSPE\p04Age_Payofilin\obj\Debug\p04Age_Payofilin.exe
+C:\CSPE\p04Age_Payofilin\obj\Debug\p04Age_Payofilin.pdb
