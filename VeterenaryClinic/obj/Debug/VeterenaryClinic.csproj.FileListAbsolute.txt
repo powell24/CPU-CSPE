@@ -1,0 +1,6 @@
+C:\CSPE_Payofilin\VeterenaryClinic\bin\Debug\VeterenaryClinic.dll
+C:\CSPE_Payofilin\VeterenaryClinic\bin\Debug\VeterenaryClinic.pdb
+C:\CSPE_Payofilin\VeterenaryClinic\obj\Debug\VeterenaryClinic.csproj.AssemblyReference.cache
+C:\CSPE_Payofilin\VeterenaryClinic\obj\Debug\VeterenaryClinic.csproj.CoreCompileInputs.cache
+C:\CSPE_Payofilin\VeterenaryClinic\obj\Debug\VeterenaryClinic.dll
+C:\CSPE_Payofilin\VeterenaryClinic\obj\Debug\VeterenaryClinic.pdb
